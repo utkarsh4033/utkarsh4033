@@ -35,13 +35,14 @@
   </tr>
     <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utkarsh4033&theme=radical" alt="utkarsh4033" />
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh4033&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="utkarsh4033" /></p>
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utkarsh4033&theme=radical&utcOffset=8">
     </td>
   </tr>
 </table>
+
 
 
 
