@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C++**
   
--  📫 How to reach me **info.utkarsh433@gmail.com**
+-  📫 How to reach me **utkarsh433@gmail.com**
 
 - ⚡ Fun fact **Google's name was the fruit of a spelling mistake.**
 
